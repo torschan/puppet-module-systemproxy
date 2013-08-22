@@ -1,0 +1,8 @@
+name    'ghoneycutt/systemproxy'
+version '0.1.0'
+source 'https://github.com/ghoneycutt/puppet-module-systemproxy.git'
+author 'ghoneycutt'
+license 'Apache License, Version 2.0'
+summary 'Manage system wide proxy settings'
+description 'Manage system wide proxy settings'
+project_page 'https://github.com/ghoneycutt/puppet-module-systemproxy'

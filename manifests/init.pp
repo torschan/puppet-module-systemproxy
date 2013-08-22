@@ -1,0 +1,7 @@
+# == Class: systemproxy
+#
+class systemproxy (
+
+) {
+
+}
